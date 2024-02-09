@@ -3,12 +3,7 @@ numpy
 seaborn
 matplotlib
 scikit-learn
-catboost
-pandas==<version>
-numpy==<version>
-seaborn==<version>
-matplotlib==<version>
-scikit-learn==<version>
-catboost==<version>
+
+dill
 
 #-e .
